@@ -1,6 +1,6 @@
 {
-  "name": "BNB",
-  "symbol": "BNB",
-  "description": "10000000 BNB",
+  "name": "RMB",
+  "symbol": "RMB",
+  "description": "total: 10000000 RMB",
   "image": "https://token-creator-lac.vercel.app/token_image.png"
 }
